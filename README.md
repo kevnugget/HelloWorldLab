@@ -1,0 +1,1 @@
+# This README file is for CIS 3515's Lab 1 assignment. This program aims to greet the user, if they input a name. Welcome!
